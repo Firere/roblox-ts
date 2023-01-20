@@ -1,4 +1,4 @@
-import Roact from "@rbxts/roact";
+import Roact from "@firere/roact";
 
 // @ts-expect-error
 const x = <frame>Hello World!</frame>;

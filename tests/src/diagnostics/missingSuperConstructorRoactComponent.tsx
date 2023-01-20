@@ -1,4 +1,4 @@
-import Roact from "@rbxts/roact";
+import Roact from "@firere/roact";
 
 class X extends Roact.Component<{}, {}> {
 	constructor(props: {}) {

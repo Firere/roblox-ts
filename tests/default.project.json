@@ -12,6 +12,9 @@
 				"$path": "include",
 				"node_modules": {
 					"$className": "Folder",
+					"@firere": {
+						"$path": "node_modules/@firere"
+					},
 					"@rbxts": {
 						"$path": "node_modules/@rbxts"
 					}

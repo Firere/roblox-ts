@@ -1,4 +1,4 @@
-import Roact from "@rbxts/roact";
+import Roact from "@firere/roact";
 
 const RoactModule = game
 	.GetService("ReplicatedStorage")
