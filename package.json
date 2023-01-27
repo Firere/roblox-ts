@@ -1,6 +1,6 @@
 {
 	"name": "@firere/roblox-ts",
-	"version": "2.0.4-ts.1",
+	"version": "2.0.4-ts.2",
 	"description": "A TypeScript-to-Luau Compiler for Roblox, compatible with Firere's other stuff",
 	"main": "out/CLI/index.js",
 	"repository": {
@@ -87,6 +87,7 @@
 		"include",
 		"templates",
 		"CHANGELOG.md",
+		"./index.d.ts",
 		"!**/*.js.map",
 		"!**/*.tsbuildinfo"
 	]
