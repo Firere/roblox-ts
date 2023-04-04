@@ -14,6 +14,6 @@
 		"@rbxts/compiler-types": "github:roblox-ts/compiler-types",
 		"@rbxts/services": "^1.2.0",
 		"@rbxts/testez": "^0.4.2-ts.0",
-		"@rbxts/types": "^1.0.658"
+		"@rbxts/types": "^1.0.659"
 	}
 }
